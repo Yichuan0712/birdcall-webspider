@@ -1,2 +1,2 @@
 # birdcall-webspider
-a webspider for collecting birdcall
+a webspider for collecting birdcalls
