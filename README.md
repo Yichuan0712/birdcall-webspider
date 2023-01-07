@@ -1,2 +1,2 @@
 # birdcall-webspider
-a webspider for collecting birdcalls
+a webspider for collecting birdcalls from xeno canto and ebird
